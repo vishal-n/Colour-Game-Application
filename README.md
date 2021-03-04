@@ -2,8 +2,8 @@
 
 Once the file is downloaded, move to the folder containing the file and type the following commands in the terminal:
 
-javac accept_input.java
-java application
+javac accept_input.java<br>
+java application<br>
 
 Choose any of the following commands:
 
