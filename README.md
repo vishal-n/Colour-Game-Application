@@ -7,30 +7,30 @@ java application<br>
 
 Choose any of the following commands:
 
-+salt
-+blood
-+apple
-+banana
-+frog
-+ink
-+sky
-list
-exit
++salt<br>
++blood<br>
++apple<br>
++banana<br>
++frog<br>
++ink<br>
++sky<br>
+list<br>
+exit<br>
 
 
 
 After some of the above commands are typed, type some of the following commands:
 
-red
-yellow
-white
-black
-green
-blue
--salt
--blood
--appple
--banana
--frog
--ink
--sky
+red<br>
+yellow<br>
+white<br>
+black<br>
+green<br>
+blue<br>
+-salt<br>
+-blood<br>
+-appple<br>
+-banana<br>
+-frog<br>
+-ink<br>
+-sky<br>
